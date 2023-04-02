@@ -17,7 +17,7 @@
   <img width="75%" src="src/example_4_2_3.gif"> 
 </p>
 
-## Задача 4*. Рассчет количества по сумме
+## Задача 4*. Расчет количества по сумме
 
 <p align="center" width="100%">
   <img width="75%" src="src/example_4_2_4.gif"> 
