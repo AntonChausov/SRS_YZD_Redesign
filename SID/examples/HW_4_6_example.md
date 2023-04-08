@@ -17,3 +17,9 @@
 <p align="center" width="100%">
   <img width="75%" src="src/example_4_6_3.gif"> 
 </p>
+
+## Задача 4*. Форма списка контактных лиц
+
+<p align="center" width="100%">
+  <img width="75%" src="src/example_4_6_4.gif"> 
+</p>
