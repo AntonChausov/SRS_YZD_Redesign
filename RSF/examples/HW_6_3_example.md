@@ -6,8 +6,20 @@
   <img width="75%" src="src/example_6_3_1.gif"> 
 </p>
 
-## Задача 2. 
+## Задача 2. Создать команду печати прайс-листа в справочнике «Номенклатура» в табличный документ
 
 <p align="center" width="100%">
   <img width="75%" src="src/example_6_3_2.gif"> 
+</p>
+
+## Задача 3. Создать обработку для загрузки прайса из файла Excel (*.xlsx)
+
+<p align="center" width="100%">
+  <img width="75%" src="src/example_6_3_3.gif"> 
+</p>
+
+## Задача 4*. Хранение данных в макете
+
+<p align="center" width="100%">
+  <img width="75%" src="src/example_6_3_4.gif"> 
 </p>
